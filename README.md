@@ -1,3 +1,5 @@
+<p align="center"><img src="https://lh3.googleusercontent.com/proxy/dDJrBnQh6s0Pyl3tci8I0V3chKOWMEW3TmY3VWoVmKxl2m-uHZTcHGFL7fJt8w-GuYBtl2-hPJWk2GdW6j8G6drTqLE1TRPsgtf6HNOX2RJWk-RcJeo" width=200></p>
+
 # Klasifikasi-Text
 
 Klasifikasi Text is a Machine learning model that using Bayessian Algorithm to determine the category of indonesian news article
